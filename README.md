@@ -3,6 +3,6 @@ Created complicated calculator which uses a switch case to choose between area o
 
 Prerequisites: Visaul Basic 2017
 
-Getting Started: Open the complicated Calculator.sln file (solution File) with Visual Basic by double clicking on it to run it.
+Getting Started: Open the complicated Calculator file (ending with .sln) with Visual Basic by double clicking on it to run it.
 
 Author Sulman Malik
